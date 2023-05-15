@@ -1,6 +1,5 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=Waving&text=TERO1115&color=random)<br> -->
 <h2>테스트</h2>
-<hr>
 안녕하세요
 
 
