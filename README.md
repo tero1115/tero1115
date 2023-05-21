@@ -29,9 +29,6 @@
 이메일 : [limjisang1115@gmail.com](mailto:limjisang1115@gmail.com) (지메일) <br>
 이메일 : [wltkd22@naver.com](mailto:wltkd22@naver.com) (네이버)
 
-이메일 : limjisang1115@gmail.com (지메일) <br>
-이메일 : wltkd22@naver.com (네이버)
-
 ## 📊 Github 통계
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tero1115&&show_icons=true&theme=default)
