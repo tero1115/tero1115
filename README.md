@@ -26,8 +26,8 @@
 
 ## 📫 연락처
 
-이메일 : "limjisang1115[at]gmail[dot]com" (지메일) <br>
-이메일 : wltkd22[at]naver[dot]com (네이버)
+이메일 : limjisang1115@gmail.com (지메일) <br>
+이메일 : wltkd22@naver.com (네이버)
 
 ## 📊 Github 통계
 
