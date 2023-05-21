@@ -1,9 +1,4 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=Waving&text=TERO1115&color=random)<br> -->
-<h2>테스트</h2>
-안녕하세요
-
-<h2>1차 프로젝트</h2>
-
 
 # 안녕하세요, 저는 임지상 입니다.
 
@@ -27,7 +22,7 @@
 
 [2차 프로젝트](https://github.com/tero1115/Springboot-MyBatis-Recruitment-Project-V2-RestAPI)
 
-[3차 프로젝트](https://github.com/ReadMeCorporation/user_server_ReadMe)
+[3차 프로젝트](https://github.com/ReadMeCorporation/user_server_ReadMe) <br>
 [3차 프로젝트](https://github.com/ReadMeCorporation/admin_server_ReadMe)
 (당신이 만든 프로젝트들의 목록을 작성하세요. 각 프로젝트에 대한 간단한 설명과 함께, 프로젝트에 대한 링크를 첨부하세요.)
 
