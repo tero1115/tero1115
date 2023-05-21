@@ -3,11 +3,11 @@
 안녕하세요
 
 <h2>1차 프로젝트</h2>
-https://github.com/tero1115/Springboot-MyBatis-Recruitment-Project
+
 
 # 안녕하세요, 저는 임지상 입니다.
 
-![Profile views](https://gpvc.arturio.dev/[당신의 깃헙 유저네임])
+![Profile views](https://gpvc.arturio.dev/[tero1115])
 
 ## 👨‍💻 어떤 개발자인가요?
 
@@ -21,8 +21,14 @@ https://github.com/tero1115/Springboot-MyBatis-Recruitment-Project
 
 (현재 배우고 있거나, 앞으로 배우고 싶은 기술이나 주제에 대해 작성하세요.)
 
-## 💻 내가 만든 프로젝트
+## 💻 국비 강의에서 만든 프로젝트
 
+[1차 프로젝트](https://github.com/tero1115/Springboot-MyBatis-Recruitment-Project)
+
+[2차 프로젝트](https://github.com/tero1115/Springboot-MyBatis-Recruitment-Project-V2-RestAPI)
+
+[3차 프로젝트](https://github.com/ReadMeCorporation/user_server_ReadMe)
+[3차 프로젝트](https://github.com/ReadMeCorporation/admin_server_ReadMe)
 (당신이 만든 프로젝트들의 목록을 작성하세요. 각 프로젝트에 대한 간단한 설명과 함께, 프로젝트에 대한 링크를 첨부하세요.)
 
 ## 📫 연락처
@@ -30,12 +36,5 @@ https://github.com/tero1115/Springboot-MyBatis-Recruitment-Project
 (당신과 연락할 수 있는 방법을 작성하세요. 이메일, LinkedIn, Twitter 등을 포함할 수 있습니다.)
 
 ## 📊 Github 통계
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tero1115&&show_icons=true&theme=default)
