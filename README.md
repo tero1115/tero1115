@@ -7,7 +7,7 @@
 
 # 안녕하세요, 저는 임지상 입니다.
 
-![Profile views](https://gpvc.arturio.dev/[tero1115])
+![Profile views](https://gpvc.arturio.dev/tero1115)
 
 ## 👨‍💻 어떤 개발자인가요?
 
