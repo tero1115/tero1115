@@ -9,6 +9,12 @@
 ## 🚀 내 기술 스택
 
 (자신이 능숙하게 다룰 수 있는 기술들을 나열하세요. 예시로는 프로그래밍 언어, 프레임워크, 라이브러리, 데이터베이스 등이 있습니다.)
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> 
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
+
 
 ## 🌱 현재 배우고 있는 것
 
