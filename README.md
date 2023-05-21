@@ -31,3 +31,5 @@
 ## 📊 Github 통계
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tero1115&&show_icons=true&theme=default)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tero1115&layout=compact)](https://github.com/tero1115/github-readme-stats)
