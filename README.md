@@ -5,4 +5,37 @@
 <h2>1차 프로젝트</h2>
 https://github.com/tero1115/Springboot-MyBatis-Recruitment-Project
 
+# 안녕하세요, 저는 임지상 입니다.
+
+![Profile views](https://gpvc.arturio.dev/[당신의 깃헙 유저네임])
+
+## 👨‍💻 어떤 개발자인가요?
+
+(여기에 자신이 어떤 개발자인지, 자신이 가장 흥미를 가지고 있는 기술 스택은 무엇인지, 어떤 프로젝트에 관심이 있는지 등을 작성하세요.)
+
+## 🚀 내 기술 스택
+
+(자신이 능숙하게 다룰 수 있는 기술들을 나열하세요. 예시로는 프로그래밍 언어, 프레임워크, 라이브러리, 데이터베이스 등이 있습니다.)
+
+## 🌱 현재 배우고 있는 것
+
+(현재 배우고 있거나, 앞으로 배우고 싶은 기술이나 주제에 대해 작성하세요.)
+
+## 💻 내가 만든 프로젝트
+
+(당신이 만든 프로젝트들의 목록을 작성하세요. 각 프로젝트에 대한 간단한 설명과 함께, 프로젝트에 대한 링크를 첨부하세요.)
+
+## 📫 연락처
+
+(당신과 연락할 수 있는 방법을 작성하세요. 이메일, LinkedIn, Twitter 등을 포함할 수 있습니다.)
+
+## 📊 Github 통계
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tero1115&&show_icons=true&theme=default)
