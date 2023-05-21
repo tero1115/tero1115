@@ -20,8 +20,8 @@
 
 [2차 프로젝트](https://github.com/tero1115/Springboot-MyBatis-Recruitment-Project-V2-RestAPI)
 
-[3차 프로젝트](https://github.com/ReadMeCorporation/user_server_ReadMe) <br>
-[3차 프로젝트](https://github.com/ReadMeCorporation/admin_server_ReadMe)
+[3차 프로젝트 (앱-유저)](https://github.com/ReadMeCorporation/user_server_ReadMe) <br>
+[3차 프로젝트 (웹-관리자)](https://github.com/ReadMeCorporation/admin_server_ReadMe)
 (당신이 만든 프로젝트들의 목록을 작성하세요. 각 프로젝트에 대한 간단한 설명과 함께, 프로젝트에 대한 링크를 첨부하세요.)
 
 ## 📫 연락처
