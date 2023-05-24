@@ -1,7 +1,5 @@
 # 안녕하세요, 저는 임지상 입니다.
 
-## 🚀 내 기술 스택
-
 ## 🛠️ 기술 스택
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-FA8B00?style=flat-square&logo=fire&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-007396?style=flat-square&logo=hibernate&logoColor=white"/> 
@@ -26,7 +24,7 @@
 
 [3차 프로젝트 (앱-유저)](https://github.com/ReadMeCorporation/user_server_ReadMe) <br>
 [3차 프로젝트 (웹-관리자)](https://github.com/ReadMeCorporation/admin_server_ReadMe)
-(당신이 만든 프로젝트들의 목록을 작성하세요. 각 프로젝트에 대한 간단한 설명과 함께, 프로젝트에 대한 링크를 첨부하세요.)
+<!-- (당신이 만든 프로젝트들의 목록을 작성하세요. 각 프로젝트에 대한 간단한 설명과 함께, 프로젝트에 대한 링크를 첨부하세요.) -->
 
 ## 📫 연락처
 
