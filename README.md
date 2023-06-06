@@ -18,9 +18,9 @@
 
 ## 💻 국비 강의에서 만든 프로젝트
 
-[1차 프로젝트](https://github.com/tero1115/Springboot-MyBatis-Recruitment-Project)
+[1차 프로젝트(개발자를 위한 구인구직 웹사이트)](https://github.com/tero1115/Springboot-MyBatis-Recruitment-Project)
 
-[2차 프로젝트](https://github.com/tero1115/Springboot-MyBatis-Recruitment-Project-V2-RestAPI)
+[2차 프로젝트(1차 프로젝트를 REST API로 변경)](https://github.com/tero1115/Springboot-MyBatis-Recruitment-Project-V2-RestAPI)
 
 [3차 프로젝트 (앱-유저)](https://github.com/ReadMeCorporation/user_server_ReadMe) <br>
 [3차 프로젝트 (웹-관리자)](https://github.com/ReadMeCorporation/admin_server_ReadMe)
