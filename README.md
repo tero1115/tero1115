@@ -16,6 +16,7 @@
 <img src="https://img.shields.io/badge/MyBatis-FA8B00?style=flat-square&logo=fire&logoColor=white"/> 
 <img src="https://img.shields.io/badge/JPA-007396?style=flat-square&logo=hibernate&logoColor=white"/>  -->
 
+<!--
 ## 💻 국비 강의에서 만든 프로젝트
 
 [1차 프로젝트(개발자를 위한 구인구직 웹사이트)](https://github.com/tero1115/Springboot-MyBatis-Recruitment-Project)
@@ -23,7 +24,7 @@
 [2차 프로젝트(1차 프로젝트를 REST API로 변경)](https://github.com/tero1115/Springboot-MyBatis-Recruitment-Project-V2-RestAPI)
 
 [3차 프로젝트(전자책 플랫폼) (앱-유저)](https://github.com/ReadMeCorporation/user_server_ReadMe) <br>
-[3차 프로젝트(전자책 플랫폼) (웹-관리자)](https://github.com/ReadMeCorporation/admin_server_ReadMe)
+[3차 프로젝트(전자책 플랫폼) (웹-관리자)](https://github.com/ReadMeCorporation/admin_server_ReadMe)-->
 <!-- (당신이 만든 프로젝트들의 목록을 작성하세요. 각 프로젝트에 대한 간단한 설명과 함께, 프로젝트에 대한 링크를 첨부하세요.) -->
 
 ## 📫 연락처
