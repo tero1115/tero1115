@@ -1,4 +1,4 @@
-![9935084A5B9541D014](https://github.com/tero1115/tero1115/assets/67888405/6c3cd70d-7481-4cf6-b88b-819ffc385a27)# 안녕하세요, 저는 임지상 입니다.
+# 안녕하세요, 저는 임지상 입니다.
 
 ## 🛠️ 기술 스택
 
@@ -14,7 +14,7 @@
 
 ## 🍀 블로그
 
-https://limjisang1115.tistory.com/
+[https://limjisang1115.tistory.com/](https://limjisang1115.tistory.com/)
 
 
 ## 📊 Github 통계
