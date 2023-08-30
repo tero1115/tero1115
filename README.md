@@ -1,36 +1,20 @@
-# 안녕하세요, 저는 임지상 입니다.
+![9935084A5B9541D014](https://github.com/tero1115/tero1115/assets/67888405/6c3cd70d-7481-4cf6-b88b-819ffc385a27)# 안녕하세요, 저는 임지상 입니다.
 
 ## 🛠️ 기술 스택
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-FA8B00?style=flat-square&logo=fire&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-007396?style=flat-square&logo=hibernate&logoColor=white"/> 
 
 
-<!-- (자신이 능숙하게 다룰 수 있는 기술들을 나열하세요. 예시로는 프로그래밍 언어, 프레임워크, 라이브러리, 데이터베이스 등이 있습니다.) -->
-<!-- <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> 
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> 
-<img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white"/> 
-<img src="https://img.shields.io/badge/MyBatis-FA8B00?style=flat-square&logo=fire&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JPA-007396?style=flat-square&logo=hibernate&logoColor=white"/>  -->
 
-<!--
-## 💻 국비 강의에서 만든 프로젝트
 
-[1차 프로젝트(개발자를 위한 구인구직 웹사이트)](https://github.com/tero1115/Springboot-MyBatis-Recruitment-Project)
+## 📫 이메일
 
-[2차 프로젝트(1차 프로젝트를 REST API로 변경)](https://github.com/tero1115/Springboot-MyBatis-Recruitment-Project-V2-RestAPI)
+지메일 : [limjisang1115@gmail.com](mailto:limjisang1115@gmail.com)  <br>
+네이버 : [wltkd22@naver.com](mailto:wltkd22@naver.com) <br>
 
-[3차 프로젝트(전자책 플랫폼) (앱-유저)](https://github.com/ReadMeCorporation/user_server_ReadMe) <br>
-[3차 프로젝트(전자책 플랫폼) (웹-관리자)](https://github.com/ReadMeCorporation/admin_server_ReadMe) -->
-<!-- (당신이 만든 프로젝트들의 목록을 작성하세요. 각 프로젝트에 대한 간단한 설명과 함께, 프로젝트에 대한 링크를 첨부하세요.) -->
+![Uploading 9935084A5B954<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 459 459"><title>티스토리 로고</title><g><path fill="#eb531f" d="M229.5,0C102.75,0,0,102.75,0,229.5S102.75,459,229.5,459,459,356.25,459,229.5,356.25,0,229.5,0ZM130.21,191.45a39.57,39.57,0,1,1,39.56-39.57A39.58,39.58,0,0,1,130.21,191.45ZM229.5,390a39.56,39.56,0,1,1,39.56-39.56A39.56,39.56,0,0,1,229.5,390Zm0-99.29a39.56,39.56,0,1,1,39.56-39.56A39.56,39.56,0,0,1,229.5,290.74Zm0-99.29a39.57,39.57,0,1,1,39.56-39.57A39.57,39.57,0,0,1,229.5,191.45Zm99.29,0a39.57,39.57,0,1,1,39.57-39.57A39.57,39.57,0,0,1,328.79,191.45Z"/></g></svg>
+1D014.svg…]() ## 티스토리
 
-## 📫 연락처
-
-이메일 : [limjisang1115@gmail.com](mailto:limjisang1115@gmail.com) (지메일) <br>
-이메일 : [wltkd22@naver.com](mailto:wltkd22@naver.com) (네이버)
 
 ## 📊 Github 통계
 
